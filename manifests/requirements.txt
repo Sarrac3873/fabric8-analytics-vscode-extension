@@ -2,3 +2,4 @@ flask==0.12
 fastapi==0.36.0
 sceptre==2.2.1
 parse==1.6.6
+pydantic>=1.10.13 # not directly required, pinned by Snyk to avoid a vulnerability
