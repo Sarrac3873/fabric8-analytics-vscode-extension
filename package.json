@@ -270,18 +270,18 @@
     "mocha-jenkins-reporter": "^0.4.0",
     "mocha-loader": "^3.0.0",
     "remap-istanbul": "^0.13.0",
-    "sinon": "^7.5.0",
+    "sinon": "^16.1.2",
     "sinon-chai": "^3.2.0",
     "source-map-loader": "^1.1.0",
-    "supertest": "^6.1.3",
+    "supertest": "^6.2.0",
     "ts-loader": "^6.2.0",
     "tslint": "^5.19.0",
     "typescript": "^3.8.3",
     "vsce": "^1.88.0",
-    "vscode-extension-tester": "^4.0.3",
+    "vscode-extension-tester": "^5.3.0",
     "vscode-test": "^1.3.0",
-    "webpack": "^4.44.2",
-    "webpack-cli": "^3.3.12"
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0"
   },
   "dependencies": {
     "@redhat-developer/vscode-redhat-telemetry": "0.0.13",
