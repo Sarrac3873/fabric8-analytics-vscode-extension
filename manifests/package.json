@@ -37,7 +37,7 @@
 		"underscore": "1.8.3"
 	},
 	"devDependencies": {
-		"newman": "^3.8.2",
+		"newman": "^5.2.4",
 		"nodemon": "^1.11.0"
 	}
 }
