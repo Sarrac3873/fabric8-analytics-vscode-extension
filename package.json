@@ -289,7 +289,7 @@
     "fs": "0.0.1-security",
     "node-fetch": "^2.6.0",
     "path": "0.12.7",
-    "request": "2.88.0",
+    "request": "2.88.2",
     "vscode-languageclient": "5.2.1"
   }
 }
